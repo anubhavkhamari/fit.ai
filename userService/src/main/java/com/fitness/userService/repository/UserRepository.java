@@ -1,5 +1,6 @@
 package com.fitness.userService.repository;
 
+
 import com.fitness.userService.model.User;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
